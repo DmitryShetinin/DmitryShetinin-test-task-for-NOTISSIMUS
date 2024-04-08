@@ -1,8 +1,5 @@
 ﻿
 using AngleSharp.Html.Dom;
-using Myparser.Models;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace Parser.Core
 {

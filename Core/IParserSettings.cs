@@ -9,5 +9,6 @@
         int StartPoint { get; set; }
 
         int EndPoint { get; set; }
+        public int CityId { get; set; }
     }
 }

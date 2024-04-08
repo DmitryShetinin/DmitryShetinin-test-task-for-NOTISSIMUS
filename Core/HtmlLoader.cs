@@ -1,6 +1,4 @@
 ﻿using System.Net;
-using System.Net.Http;
-using System.Threading.Tasks;
 
 namespace Parser.Core
 {
@@ -12,7 +10,7 @@ namespace Parser.Core
         public HtmlLoader(IParserSettings settings)
         {
             client = new HttpClient();
-            url = $"{settings.BaseUrl}{settings.Prefix}/";
+            url = $"{settings.BaseUrl}{settings.Prefix}/?setVisitorCityId={settings.CityId}";
         }
 
         public async Task<string> GetSourceByPageId(int id)
@@ -21,7 +19,7 @@ namespace Parser.Core
             var response = await client.GetAsync(currentUrl);
             string source = null;
 
-            if(response != null && response.StatusCode == HttpStatusCode.OK)
+            if (response != null && response.StatusCode == HttpStatusCode.OK)
             {
                 source = await response.Content.ReadAsStringAsync();
             }

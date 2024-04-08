@@ -1,447 +1,454 @@
 [
   {
-    "name": "Шампанское La Grande Ruelle Pinot Noir, Eric Rodez, 2016 г.",
-    "price": 39990.0,
+    "name": "Шампанское Grand Cru, Louis de Sacy",
+    "price": 14490.0,
     "oldPrice": 0.0,
-    "rating": "5",
-    "article": "143974",
+    "rating": "4.9",
+    "article": "140243",
     "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/la_grande_ruelle_pinot_noir_2016_075_143974/",
+    "region": "Челябинск",
+    "url": "/catalog/product/grand_cru_2016_075_140243/",
     "pictures": [
-      "https://static.simplewine.ru/upload/iblock/5ac/5ac594d6e184bda13ee37765592c5b4a.png@x51",
-      "https://static.simplewine.ru/upload/iblock/e4c/e4c5e4cc97e19a1430c5cc47013b0528.png@x51"
+      "https://static.simplewine.ru/upload/iblock/d46/d46cc7166f98003f3daca49573fc1a2b.png@x51",
+      "https://static.simplewine.ru/upload/iblock/7b9/7b9e2488f0739cf5408c775c2af7e00a.png@x51"
     ]
   },
   {
-    "name": "Шампанское Le White Label Sec, Lanson",
+    "name": "Игристое вино Asti, Canti, 2021 г.",
+    "price": 1253.0,
+    "oldPrice": 1790.0,
+    "rating": "4.9",
+    "article": "139487",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/canti_asti_2021_075_139487/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/2f8/2f8d0d288230a68033565976bf1a1f32.png@x51",
+      "https://static.simplewine.ru/upload/iblock/ece/ece157c281759464f189db860868d13d.png@x51",
+      "https://static.simplewine.ru/upload/iblock/6e5/6e5ba1ae4acd65db227e758d726b8815.jpg@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Grand Millesime Grand Cru Bouzy Brut, Paul Bara, 2018 г.",
+    "price": 16490.0,
+    "oldPrice": 0.0,
+    "rating": "4.8",
+    "article": "147144",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/grand_millesime_grand_cru_bouzy_brut_2018_075_147144/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/382/3826ea0f632e204f4427bd12ad75a0ca.png@x51",
+      "https://static.simplewine.ru/upload/iblock/38c/38c32f5903741c99758924de44f0683c.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Originel, Louis de Sacy",
+    "price": 11990.0,
+    "oldPrice": 0.0,
+    "rating": "4.8",
+    "article": "140242",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/originel_2018_075_140242/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/a7a/a7aa7bef16140624f7969a73ed0b964d.png@x51",
+      "https://static.simplewine.ru/upload/iblock/3b2/3b2c5b433a75c562deb5f578b1a0566a.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Special Club Grand Cru Bouzy Brut в подарочной упаковке, Paul Bara, 2016 г.",
+    "price": 22490.0,
+    "oldPrice": 0.0,
+    "rating": "4.4",
+    "article": "147143",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/special_club_grand_cru_bouzy_brut_2016_075_147143/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/27f/27f14cee48f13519581c4a16b5e768f3.png@x51"
+    ]
+  },
+  {
+    "name": "Игристое вино Балаклава Брют Резерв, Золотая Балка, 2021 г., 0.375 л.",
+    "price": 570.0,
+    "oldPrice": 0.0,
+    "rating": "4.4",
+    "article": "141731",
+    "volume": "0.375 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/balaklava_bryut_rezerv_2021_0375_141731/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/740/74079ac8556cc14d323d97102cee7a77.jpg@x51",
+      "https://static.simplewine.ru/upload/iblock/d48/d48cb814873157b00b82929484de8a69.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Reserve Privee Rose Brut, Chanoine Freres",
+    "price": 9490.0,
+    "oldPrice": 0.0,
+    "rating": "5",
+    "article": "144654",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/reserve_privee_rose_brut_075_144654/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/175/175904e36b8edb651f42142de0e08ff0.png@x51",
+      "https://static.simplewine.ru/upload/iblock/bc1/bc1d69bfbd2f66a41198861fdebb8e50.png@x51",
+      "https://static.simplewine.ru/upload/iblock/84d/84d8c9b59560570eaefc8ec20fbcff1a.jpg@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Rose de Saignee Premier Cru Brut, Geoffroy",
+    "price": 12990.0,
+    "oldPrice": 0.0,
+    "rating": "5",
+    "article": "144914",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/rose_de_saignee_premier_cru_brut_075_144914/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/305/305a57c74556dc31eff14e872cf9eb44.png@x51"
+    ]
+  },
+  {
+    "name": "Игристое вино Le Grand Noir Brut Reserve Rose, Les Celliers Jean d'Alibert",
+    "price": 1790.0,
+    "oldPrice": 0.0,
+    "rating": "4",
+    "article": "134246",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/les_celliers_jean_d_alibert__le_grand_noir_brut_reserve_rose_075_134246/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/7c0/7c00b2e705e1710861c3afb2b02879a5.png@x51",
+      "https://static.simplewine.ru/upload/iblock/135/135201378f026aa81e1d0e25b98d07de.png@x51"
+    ]
+  },
+  {
+    "name": "Игристое вино Темелион Винтаж Розе, Лефкадия, 2019 г.",
+    "price": 2790.0,
+    "oldPrice": 0.0,
+    "rating": "4",
+    "article": "142446",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/temelion_vintazh_roze_2019_075_142446/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/79c/79c74ea44845146cf6f4def6be1c1f32.jpg@x51",
+      "https://static.simplewine.ru/upload/iblock/bc6/bc658b0c86edb67f598d0c88e42e04ee.png@x51"
+    ]
+  },
+  {
+    "name": "Игристое вино Cuvee Dolce, Canti",
+    "price": 1390.0,
+    "oldPrice": 0.0,
+    "rating": "5",
+    "article": "145099",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/cuvee_dolce_075_145099/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/4b2/4b295d4dbc2d75ab2b6410d97153da35.png@x51",
+      "https://static.simplewine.ru/upload/iblock/ae6/ae627c2dc0d8feb8355ebfcf9113de40.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Le Black Creation 257 Brut в подарочной упаковке, Lanson",
+    "price": 10990.0,
+    "oldPrice": 0.0,
+    "rating": "5",
+    "article": "146834",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/le_black_creation_257_brut_075_gift_146834/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/15d/15df8b449e7b4ffdb2aca6705ead7a92.png@x51",
+      "https://static.simplewine.ru/upload/iblock/122/122fdde9d6259260d0a063c1f6d1defa.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Extra Brut, Brimoncourt",
+    "price": 15990.0,
+    "oldPrice": 0.0,
+    "rating": "4.5",
+    "article": "141208",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/extra_brut_075_141208/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/1e0/1e01ef0c587dddf68e07c9780488be6b.png@x51",
+      "https://static.simplewine.ru/upload/iblock/07b/07bb112972a00927fa5d752e52b2569f.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Reserve 424 Brut, Beurton et Fils",
+    "price": 7790.0,
+    "oldPrice": 0.0,
+    "rating": "4.5",
+    "article": "144801",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/reserve_424_brut_075_144801/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/41e/41eb1496e02fb73bb862fa2b29c183bd.png@x51",
+      "https://static.simplewine.ru/upload/iblock/340/340a37fedb06de75d8579226e7c85c1b.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Le Blanc de Blancs Brut в подарочной упаковке, Lanson",
+    "price": 17990.0,
+    "oldPrice": 0.0,
+    "rating": "3.8",
+    "article": "142338",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/le_blanc_de_blancs_brut_075_gift_142338/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/f69/f696acaebf8c6667d0a23d5378a6ea48.png@x51",
+      "https://static.simplewine.ru/upload/iblock/a0a/a0a2b9faf03f18b92463082f7f330748.png@x51"
+    ]
+  },
+  {
+    "name": "Игристое вино Prosecco Spumante Brut в подарочной упаковке, Casa Defra",
+    "price": 1890.0,
+    "oldPrice": 0.0,
+    "rating": "3.8",
+    "article": "138419",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/casa_defra_prosecco_spumante_brut_075_gift_138419/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/86a/86a3d9eac89bb47f6df9ee0657dbeb25.png@x51",
+      "https://static.simplewine.ru/upload/iblock/c32/c329b9f30a827a6462258b63344c4eed.png@x51"
+    ]
+  },
+  {
+    "name": "Игристое вино Aliboitboit Blanc, Domaine Agnes Paquet",
+    "price": 4290.0,
+    "oldPrice": 0.0,
+    "rating": "4",
+    "article": "128304",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/domain_agnes_paquet__aliboitboit_blanc_075_128304/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/ebe/ebe058ca46964ff6fcfd9ff7dd14b45e.png@x51",
+      "https://static.simplewine.ru/upload/iblock/d89/d8958814828955adb7ff8f11348d15f1.png@x51",
+      "https://static.simplewine.ru/upload/iblock/461/461c0eef975ae6e134854d021b8769d9.jpg@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Champagne Grand Soir, Louis de Sacy, 2012 г.",
+    "price": 19490.0,
+    "oldPrice": 0.0,
+    "rating": "4",
+    "article": "141209",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/champagne_grand_soir_2012_075_141209/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/635/635828be2e29d6a8e60b3561e4013a0b.png@x51",
+      "https://static.simplewine.ru/upload/iblock/dbf/dbfa8c9fe63b659be652da678327bfb1.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Le Vintage Brut, Lanson, 2012 г.",
+    "price": 18490.0,
+    "oldPrice": 0.0,
+    "rating": "4.8",
+    "article": "143980",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/gold_label_vintage_brut_2012_075_143980/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/210/210e7e0447390861ec68255ea52c6c63.png@x51",
+      "https://static.simplewine.ru/upload/iblock/ea8/ea87887310a2d058e8db4d64b2a1701d.png@x51"
+    ]
+  },
+  {
+    "name": "Игристое вино Charles Pelletier Reserve Blanc de Blancs Brut, 2019 г.",
+    "price": 1690.0,
+    "oldPrice": 0.0,
+    "rating": "4.8",
+    "article": "125581",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/charles_pelletier_charles_pelletier_reserve_blanc_de_blancs_brut_2019_075_125581/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/3be/3be2f5c84951ae130aca79feed0e3814.jpg@x51",
+      "https://static.simplewine.ru/upload/iblock/cd2/cd25bd83c77bfae201615fe88ce3c724.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Volupte Premier Cru Brut в подарочной упаковке, Geoffroy, 2016 г.",
+    "price": 16990.0,
+    "oldPrice": 0.0,
+    "rating": "4.9",
+    "article": "144798",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/volupte_premier_cru_brut_2016_075_gift_144798/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/0a9/0a9234d8a4c3325157c8eb46e1ae88aa.png@x51",
+      "https://static.simplewine.ru/upload/iblock/fce/fcef36f74715ae0134fbee61c35f3b30.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Rose Solera в подарочной упаковке, Palmer & Co",
+    "price": 14990.0,
+    "oldPrice": 0.0,
+    "rating": "4.9",
+    "article": "147259",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/rose_solera_075_gift_147259/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/0da/0da56178bac8ca95cd83bc80d0061ef3.png@x51",
+      "https://static.simplewine.ru/upload/iblock/be2/be23b54c7d0b8a7ee8f019a846b6668f.png@x51",
+      "https://static.simplewine.ru/upload/iblock/8e0/8e09ea4479d96f6589cc27bb6075b757.jpg@x51"
+    ]
+  },
+  {
+    "name": "Шипучее вино Lambrusco di Sorbara  LaRiserva, Paltrinieri, 2020 г.",
+    "price": 4490.0,
+    "oldPrice": 0.0,
+    "rating": "4",
+    "article": "138947",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/paltrinieri_lambrusco_di_sorbara_lariserva_2020_075_138947/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/065/065b97088db24d3d7b41c144e8ff7129.jpg@x51",
+      "https://static.simplewine.ru/upload/iblock/63b/63b6c7654adfd6aee33a87613f74c5b8.jpg@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Grands Terroirs в подарочной упаковке, Palmer & Co, 2015 г.",
+    "price": 21490.0,
+    "oldPrice": 0.0,
+    "rating": "4",
+    "article": "141445",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/grands_terroirs_2015_075_gift_141445/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/34a/34aa9fce6c8bd62925d0490ad69632a8.png@x51",
+      "https://static.simplewine.ru/upload/iblock/ba3/ba3f6752ce75ebec20162e5a7a9c86eb.png@x51",
+      "https://static.simplewine.ru/upload/iblock/e30/e3010c1fd60730409a9372bdfe41a955.jpg@x51"
+    ]
+  },
+  {
+    "name": "Игристое вино Franciacorta Cuvee Prestige Brut Rose, Ca'Del Bosco",
+    "price": 9368.0,
+    "oldPrice": 12490.0,
+    "rating": "5",
+    "article": "145604",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/franciacorta_cuvee_prestige_brut_rose_075_145604/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/824/8246c8416b8510f91a5b304651bd9247.png@x51",
+      "https://static.simplewine.ru/upload/iblock/fdb/fdba8e83a682e002622fc875c753f88c.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Reserve Privee Rose Brut в подарочной упаковке, Chanoine Freres",
+    "price": 10490.0,
+    "oldPrice": 0.0,
+    "rating": "5",
+    "article": "145584",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/reserve_privee_rose_brut_075_gift_145584/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/315/315c33aa56240a35dfdb9dcb3a498578.png@x51",
+      "https://static.simplewine.ru/upload/iblock/792/792e0b6d618e90c9fcb2df4aea5d9c83.png@x51",
+      "https://static.simplewine.ru/upload/iblock/927/92720f7bcbf3efd634287c4df52cd75c.jpg@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Brut Rose в подарочной упаковке, Brimoncourt",
+    "price": 13990.0,
+    "oldPrice": 0.0,
+    "rating": "5",
+    "article": "141356",
+    "volume": "0.75 л.",
+    "region": "Челябинск",
+    "url": "/catalog/product/brut_rose_075_gift_141356/",
+    "pictures": [
+      "https://static.simplewine.ru/upload/iblock/b6d/b6d5c5b0349d9fdad37f155c30f130f4.png@x51",
+      "https://static.simplewine.ru/upload/iblock/eca/eca3b73064c4cf9a4c312ab9bbb5f22d.png@x51"
+    ]
+  },
+  {
+    "name": "Шампанское Grande Reserve в подарочной упаковке, Vilmart & Cie",
     "price": 11990.0,
     "oldPrice": 0.0,
     "rating": "5",
-    "article": "145944",
+    "article": "143537",
     "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/le_white_label_sec_075_145944/",
+    "region": "Челябинск",
+    "url": "/catalog/product/grand_reserve_075_gift_143537/",
     "pictures": [
-      "https://static.simplewine.ru/upload/iblock/b16/b1697bdb4df42ba6a767edc96f7c474f.png@x51",
-      "https://static.simplewine.ru/upload/iblock/2c2/2c26bccb5da0b33f8af417e2308d3840.png@x51"
+      "https://static.simplewine.ru/upload/iblock/ae2/ae2e4e40612d889c25e44e4717b76926.png@x51",
+      "https://static.simplewine.ru/upload/iblock/c2c/c2c90ad1c82e9a9f2c91407c75b773a0.png@x51"
     ]
   },
   {
-    "name": "Шипучее вино Lambrusco dell'Emilia Rosso Poderi Alti, 1.5 л.",
-    "price": 1690.0,
-    "oldPrice": 0.0,
-    "rating": "4.6",
-    "article": "132347",
-    "volume": "1.5 л.",
-    "region": "Москва",
-    "url": "/catalog/product/chiarli_lambrusco_dell_emilia_rosso_poderi_alti_15_132347/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/2f5/2f584badd588beb5d299b2d1e742d844.jpg@x51",
-      "https://static.simplewine.ru/upload/iblock/9c2/9c216e080edfecf813a9cd6cdfdbe92c.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Emotion в подарочной упаковке, Vilmart & Cie, 2015 г.",
-    "price": 31490.0,
-    "oldPrice": 0.0,
-    "rating": "4.6",
-    "article": "143541",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/emotion_2015_075_gift_143541/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/62e/62e9bc18fe1ca9697eb0cd4cba4cb031.png@x51",
-      "https://static.simplewine.ru/upload/iblock/c69/c69f4f40d99f33215e67561db5f7e92b.png@x51"
-    ]
-  },
-  {
-    "name": "Игристое вино Prosecco, Canti, 2022 г., 0.2 л.",
-    "price": 740.0,
-    "oldPrice": 0.0,
-    "rating": "4.7",
-    "article": "145975",
-    "volume": "0.2 л.",
-    "region": "Москва",
-    "url": "/catalog/product/prosecco_2022_02_145975/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/13c/13c6c03da6421e4835de31f3a9c9ff05.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Reserve Privee Brut, Chanoine Freres",
-    "price": 8990.0,
-    "oldPrice": 0.0,
-    "rating": "4.7",
-    "article": "145582",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/reserve_privee_brut_075_gift_145582/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/ddb/ddbca065981a73f5e29f50ecef13bcd6.png@x51",
-      "https://static.simplewine.ru/upload/iblock/d4c/d4c98a60dac1492c1a76ff7b8c1fecdd.png@x51",
-      "https://static.simplewine.ru/upload/iblock/b74/b746f9f2a347751403f3d5af48eb9643.png@x51",
-      "https://static.simplewine.ru/upload/iblock/c60/c60cad00915998a3403282a7faa39006.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Rose de Saignee Premier Cru Brut в подарочной упаковке, Geoffroy",
-    "price": 13490.0,
+    "name": "Шампанское Premier Cru Rose, Maison Alexandre Penet",
+    "price": 12990.0,
     "oldPrice": 0.0,
     "rating": "4.8",
-    "article": "144917",
+    "article": "144621",
     "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/rose_de_saignee_premier_cru_brut_075_gift_144917/",
+    "region": "Челябинск",
+    "url": "/catalog/product/premier_cru_rose_075_144621/",
     "pictures": [
-      "https://static.simplewine.ru/upload/iblock/9d0/9d0eeb8219c66e1b0ad3ba167fbc9643.png@x51",
-      "https://static.simplewine.ru/upload/iblock/fb5/fb5e5d9211d2608ca0e9c6b062c0ec06.png@x51"
+      "https://static.simplewine.ru/upload/iblock/43c/43c306eac8be3bcba91f03b2f264ce26.png@x51",
+      "https://static.simplewine.ru/upload/iblock/7c0/7c09bf39d2755de1cbfbe4981fc2d36f.png@x51"
     ]
   },
   {
-    "name": "Шипучее вино Lambrusco di Sorbara Radice, Paltrinieri, 2022 г.",
-    "price": 3990.0,
-    "oldPrice": 0.0,
-    "rating": "4.8",
-    "article": "144672",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/lambrusco_di_sorbara_radice_2022_075_144672/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/f97/f97a87483948b77ec213f5987a8627ad.jpg@x51",
-      "https://static.simplewine.ru/upload/iblock/ae8/ae823c6a8a2df293db07981c2ec479da.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Millesime в подарочной упаковке, Brimoncourt, 2009 г.",
-    "price": 33490.0,
-    "oldPrice": 0.0,
-    "rating": "4.8",
-    "article": "141359",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/millesime_2009_075_gift_141359/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/f21/f21790538c140194e4d79c56a3f51f1a.png@x51",
-      "https://static.simplewine.ru/upload/iblock/dfa/dfae58f79304b3ba70257bec9f989b37.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Blanc de Blancs, Palmer & Co",
-    "price": 17990.0,
-    "oldPrice": 0.0,
-    "rating": "4.8",
-    "article": "141439",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/blanc_de_blancs_075_141439/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/da7/da7cf0516ea09506508a2e9baab49688.png@x51",
-      "https://static.simplewine.ru/upload/iblock/a29/a295ea2d7ecbfab1bf96b984589b5024.png@x51"
-    ]
-  },
-  {
-    "name": "Игристое вино Aratashen Brut, Armenia Wine, 2022 г.",
-    "price": 1590.0,
-    "oldPrice": 0.0,
-    "rating": "4.6",
-    "article": "137419",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/aratashen_brut_2022_075_137419/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/69a/69adfbd2a6ec548cfb4ef2e60dd48e6a.png@x51",
-      "https://static.simplewine.ru/upload/iblock/3ab/3ab3641a8ce258c924a660eb6deccda2.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Grande Reserve, Vilmart & Cie",
-    "price": 11490.0,
-    "oldPrice": 0.0,
-    "rating": "4.6",
-    "article": "142377",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/grand_reserve_075_142377/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/6be/6be466caf36810a3efde5717ece3ade1.png@x51",
-      "https://static.simplewine.ru/upload/iblock/620/62027d99990557502ed8d37fc3279b36.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Le Rose Brut в подарочной упаковке, Lanson",
-    "price": 14490.0,
-    "oldPrice": 0.0,
-    "rating": "5",
-    "article": "143257",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/le_rose_brut_075_gift_143257/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/e77/e779c69fafc31cc032a8114c9ef68986.png@x51",
-      "https://static.simplewine.ru/upload/iblock/671/6717bfaf9d347f55d64fdb7a4ced599b.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Brut Rose, Brimoncourt",
-    "price": 13490.0,
-    "oldPrice": 0.0,
-    "rating": "5",
-    "article": "141204",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/brut_rose_075_141204/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/e73/e7369ed7a0e89b839268375a5dca8486.png@x51",
-      "https://static.simplewine.ru/upload/iblock/533/533a5efcbb4187e00d777bb9e481f9f0.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Blanc de Blancs в подарочной упаковке, Vilmart & Cie, 2012 г.",
-    "price": 57490.0,
-    "oldPrice": 0.0,
-    "rating": "4.4",
-    "article": "143959",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/blanc_de_blancs_2012_075_gift_143959/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/45e/45e417bd6d822c14fe5ecb5dbfbc8919.png@x51",
-      "https://static.simplewine.ru/upload/iblock/90b/90b6832c584fe48997bda6b5275f5fde.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Volupte Premier Cru Brut, Geoffroy, 2016 г.",
-    "price": 16490.0,
-    "oldPrice": 0.0,
-    "rating": "4.4",
-    "article": "144799",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/volupte_premier_cru_brut_2016_075_144799/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/760/760190ce8efd3e4845eae97c178b28bb.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Cuvee des Crayeres, Eric Rodez",
-    "price": 15990.0,
-    "oldPrice": 0.0,
-    "rating": "5",
-    "article": "131988",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/cuvee_des_crayeres_075_131988/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/a26/a26f5fae2e96be0bf497fb4398d26fff.png@x51",
-      "https://static.simplewine.ru/upload/iblock/04d/04de8ac3a7fc76d6c9024edf55b0a6c8.png@x51"
-    ]
-  },
-  {
-    "name": "Игристое вино 450 slm, Costadila, 2021 г.",
-    "price": 4790.0,
-    "oldPrice": 0.0,
-    "rating": "5",
-    "article": "139800",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/450_slm_2021_075_139800/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/8cd/8cd7b5d66969b1e393fc44d06abeddc1.png@x51",
-      "https://static.simplewine.ru/upload/iblock/b2d/b2d7cc471a1eff374180904e348e2e36.png@x51"
-    ]
-  },
-  {
-    "name": "Игристое вино Villa Cialdini Brut Rose, Poderi Alti, 2022 г.",
-    "price": 1113.0,
-    "oldPrice": 1590.0,
-    "rating": "5",
-    "article": "145579",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/villa_cialdini_brut_rose_2022_075_145579/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/105/105f6ad1a64646a6f7266d2f16d36d9d.png@x51"
-    ]
-  },
-  {
-    "name": "Игристое вино La Dilettante Methode traditionnelle, Catherine & Pierre Breton",
-    "price": 6490.0,
-    "oldPrice": 0.0,
-    "rating": "5",
-    "article": "143396",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/la_dilettante_methode_traditionnelle_075_143396/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/b2f/b2f2efcaef00eb5d01f982e0e471b1b0.png@x51",
-      "https://static.simplewine.ru/upload/iblock/231/2314f4689f6ad602b522a31129584f4f.png@x51",
-      "https://static.simplewine.ru/upload/iblock/d8d/d8d4641f42d37f69e032d2716262198b.jpg@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Reserve Privee Brut в подарочной упаковке, Chanoine Freres",
-    "price": 8790.0,
-    "oldPrice": 0.0,
-    "rating": "4.6",
-    "article": "145583",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/reserve_privee_brut_075_gift_145583/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/1f3/1f3a3c05d8d89cecf68d18ef71016b95.png@x51",
-      "https://static.simplewine.ru/upload/iblock/440/440b6bd6971c94db76969219c6237cde.png@x51"
-    ]
-  },
-  {
-    "name": "Игристое вино Anarchia Costituzionale, Vigneti Massa, 2021 г.",
-    "price": 5240.0,
-    "oldPrice": 0.0,
-    "rating": "4.6",
-    "article": "138098",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/vigneti_massa_anarchia_costituzionale_2021_075_138098/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/eb1/eb1919f9dea5a1ff864d4fe21b835df8.jpg@x51"
-    ]
-  },
-  {
-    "name": "Игристое вино Cava Mas Via Gran Reserva Brut, Mestres, 2004 г.",
+    "name": "Шампанское Le Vintage Brut в подарочной упаковке, Lanson, 2012 г.",
     "price": 18990.0,
     "oldPrice": 0.0,
-    "rating": "5",
-    "article": "119053",
+    "rating": "4.8",
+    "article": "143981",
     "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/mestres_cava_mas_via_gran_reserva_brut_2004_075/",
+    "region": "Челябинск",
+    "url": "/catalog/product/gold_label_vintage_brut_2012_075_gift_143981/",
     "pictures": [
-      "https://static.simplewine.ru/upload/iblock/dbc/igristoe-vino-cava-mas-via-gran-reserva-brut-mestres-2004_1.png@x51"
+      "https://static.simplewine.ru/upload/iblock/26d/26dc0fe690509632f35963eb696129c0.png@x51",
+      "https://static.simplewine.ru/upload/iblock/3b4/3b4da90c70963b0c1fe347f5775ac4c8.png@x51"
     ]
   },
   {
-    "name": "Игристое вино Cava Mas Via Gran Reserva Brut, Mestres, 2006 г.",
-    "price": 18990.0,
-    "oldPrice": 0.0,
-    "rating": "5",
-    "article": "141059",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/cava_mas_via_gran_reserva_brut_2006_075_141059/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/af3/af334a4a9e9a2d04e68f70e8776e563e.png@x51",
-      "https://static.simplewine.ru/upload/iblock/b87/b87e576ab69c9a1f72266b6b166a138b.png@x51"
-    ]
-  },
-  {
-    "name": "Игристое вино Vecchie Viti Valdobbiadene Prosecco Superiore в подарочной упаковке, Ruggeri, 2022 г.",
-    "price": 6490.0,
-    "oldPrice": 0.0,
-    "rating": "4.3",
-    "article": "145966",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/vecchie_viti_valdobbiadene_prosecco_superiore_in_giftbox_2022_075_gift_145966/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/446/4460a6faada890a5a7ba74b790583754.png@x51",
-      "https://static.simplewine.ru/upload/iblock/e4a/e4a99af3ac1eca56c093cf0de43e7364.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Terre Premier Cru Extra Brut в подарочной упаковке, Geoffroy, 2010 г.",
-    "price": 28990.0,
-    "oldPrice": 0.0,
-    "rating": "4.3",
-    "article": "140684",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/terre_premier_cru_extra_but_2010_075_gift_140684/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/1f7/1f76e5ac10c5e6272f250db9130ef55b.png@x51",
-      "https://static.simplewine.ru/upload/iblock/8b1/8b10895c98408de6ee6d502621335ff4.png@x51"
-    ]
-  },
-  {
-    "name": "Шипучее вино Aleotti Lambrusco dell'Emilia Bianco",
-    "price": 1040.0,
-    "oldPrice": 0.0,
-    "rating": "3.5",
-    "article": "144439",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/aleotti_lambrusco_dell_emilia_bianco_075_144439/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/775/77558502784b6a02f753fd4f10b66788.png@x51",
-      "https://static.simplewine.ru/upload/iblock/f82/f82c4e4e05339813a0494deb67750108.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Amazone de Palmer в подарочной упаковке, Palmer & Co",
-    "price": 39990.0,
-    "oldPrice": 0.0,
-    "rating": "3.5",
-    "article": "141447",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/amazone_de_palmer_075_gift_141447/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/899/899ac0dcee1ab2e023cae8d54a482f4d.png@x51",
-      "https://static.simplewine.ru/upload/iblock/4c4/4c4985717647f78724913c23e24d7f89.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Blanc de Noirs  Ambonnay Grand Cru Extra Brut, Eric Rodez",
-    "price": 18990.0,
-    "oldPrice": 0.0,
-    "rating": "4.7",
-    "article": "133619",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/eric_rodez_blanc_de_noirs_ambonnay_grand_cru_brut_075_133619/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/d2c/d2c1f85df1efb254482317f2fab415f3.png@x51",
-      "https://static.simplewine.ru/upload/iblock/2e7/2e7c29d118cac67d7393d8ac12cd8f31.png@x51"
-    ]
-  },
-  {
-    "name": "Шипучее вино Freschello Piu, Cielo",
-    "price": 1190.0,
-    "oldPrice": 0.0,
-    "rating": "4.7",
-    "article": "141042",
-    "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/cielo_freschello_piu_075_141042/",
-    "pictures": [
-      "https://static.simplewine.ru/upload/iblock/ef1/ef1fe90737d256ada824b6c2e2722d72.png@x51",
-      "https://static.simplewine.ru/upload/iblock/107/1073f6df11c87434b24670a5306b7468.png@x51"
-    ]
-  },
-  {
-    "name": "Шампанское Brut Reserve в подарочной упаковке, Palmer & Co",
-    "price": 11790.0,
+    "name": "Шампанское Terroir & Sens Blanc de Blancs Grand Cru, Maison Alexandre Penet",
+    "price": 21990.0,
     "oldPrice": 0.0,
     "rating": "4.8",
-    "article": "141427",
+    "article": "144623",
     "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/brut_reserve_075_gift_141427/",
+    "region": "Челябинск",
+    "url": "/catalog/product/terroir_sens_blanc_de_blancs_grand_cru_075_144623/",
     "pictures": [
-      "https://static.simplewine.ru/upload/iblock/5fc/5fc707e60b5c7dad7930ed71bcd7535b.png@x51",
-      "https://static.simplewine.ru/upload/iblock/238/238e781e2f3eb610ba13e87826ef9795.png@x51"
+      "https://static.simplewine.ru/upload/iblock/7eb/7eb5d43a44306ce41e0980db2446ea0a.jpg@x51",
+      "https://static.simplewine.ru/upload/iblock/9b7/9b7e109c6bc7da10123891cc7ed53a07.png@x51"
     ]
   },
   {
-    "name": "Шампанское Le Black Création 257 Brut в подарочной упаковке, Lanson",
-    "price": 15490.0,
+    "name": "Шампанское Noble Champagne Brut в подарочной упаковке, Lanson, 2004 г.",
+    "price": 52490.0,
     "oldPrice": 0.0,
     "rating": "4.8",
-    "article": "144348",
+    "article": "141809",
     "volume": "0.75 л.",
-    "region": "Москва",
-    "url": "/catalog/product/le_black_label_brut_075_gift_144348/",
+    "region": "Челябинск",
+    "url": "/catalog/product/noble_cuvee_brut_2004_075_gift_141809/",
     "pictures": [
-      "https://static.simplewine.ru/upload/iblock/a9e/a9e95296fffabf4c1a38854dcf1422dd.png@x51"
+      "https://static.simplewine.ru/upload/iblock/ca5/ca51093bb519ef2c9a8c99889758cae8.png@x51",
+      "https://static.simplewine.ru/upload/iblock/ad2/ad2cec13ded91b69716a2418e87bd017.png@x51"
     ]
   }
 ]
