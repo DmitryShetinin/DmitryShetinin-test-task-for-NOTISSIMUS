@@ -87,7 +87,7 @@ namespace Parser.Core
 
                 var document = await domParser.ParseDocumentAsync(source);
 
-                var result = await parser.Parse(document);
+                var result = parser.Parse(document);
 
                 OnNewData?.Invoke(this, result);
             }

@@ -20,18 +20,22 @@ class Program
 
         parser.OnCompleted += Parser_OnCompleted;
         parser.OnNewData += Parser_OnNewData;
-        var document = await GetPageBase();
-        await GetInfoAboutCity(); 
+
+        var documentTask = Task.Run(() => GetPageBase());
+        var cityInfoTask = Task.Run(() => GetInfoAboutCity());
 
 
-
+       
         Console.Write("Введите с какой страницы парсить: ");
         int MinValue = Convert.ToInt32(Console.ReadLine());
         Console.Write("Введите до какой страницы парсить: ");
         int MaxValue = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Введите id города которые вы хотите распарсить(по умолчанию Москва - 1): ");
 
+        Console.WriteLine("Введите id города которые вы хотите распарсить(по умолчанию Москва - 1): ");
+      
+
+        await Task.WhenAll(documentTask, cityInfoTask);
         for(int i = 0; i < cityName.Length; i++)
         {
             Console.WriteLine($"{cityId[i]} - {cityName[i]}");

@@ -30,7 +30,7 @@ namespace Parser.Core.Habra
 
 
 
-        public async Task<List<Product>> Parse(IHtmlDocument document)
+        List<Product> IParser<List<Product>>.Parse(IHtmlDocument document)
         {
             var list = new List<Product>();
 
@@ -39,7 +39,7 @@ namespace Parser.Core.Habra
             var ratings = FilterElementsByClass(document, "span", "snippet-star__value");
             var prices = FilterByPrices(document, ".snippet-price__total");
             var oldPrices = FilterByPrices(document, ".snippet-price__discount > .snippet-price__old > span");
-            var region = FilterElementsByClass(document, "button", "location__current dropdown__toggler")[0];
+            var region = document.QuerySelector(".location__current").TextContent.Replace("\n","").Trim();
 
 
             var volumes = document.QuerySelectorAll(".snippet-description");
@@ -73,5 +73,7 @@ namespace Parser.Core.Habra
 
             return list;
         }
+
+       
     }
 }
