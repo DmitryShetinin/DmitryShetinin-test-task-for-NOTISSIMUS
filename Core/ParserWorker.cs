@@ -1,4 +1,5 @@
 ﻿using AngleSharp.Html.Parser;
+using System;
 
 namespace Parser.Core
 {
@@ -8,7 +9,7 @@ namespace Parser.Core
         IParserSettings parserSettings;
 
         HtmlLoader loader;
-
+        
         bool isActive;
 
         #region Properties
@@ -86,8 +87,8 @@ namespace Parser.Core
                 var domParser = new HtmlParser();
 
                 var document = await domParser.ParseDocumentAsync(source);
-
-                var result = parser.Parse(document);
+               
+                var result = await parser.Parse(document);
 
                 OnNewData?.Invoke(this, result);
             }

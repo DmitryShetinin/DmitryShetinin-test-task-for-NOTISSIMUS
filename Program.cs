@@ -1,4 +1,5 @@
-﻿using AngleSharp.Html.Dom;
+﻿using AngleSharp.Dom;
+using AngleSharp.Html.Dom;
 using AngleSharp.Html.Parser;
 using Myparser.Models;
 using Newtonsoft.Json;
@@ -10,36 +11,38 @@ using Formatting = Newtonsoft.Json.Formatting;
 class Program
 {
     static ParserWorker<List<Product>> parser;
-    readonly static string source1 = "https://simplewine.ru/catalog/shampanskoe_i_igristoe_vino/";
-    static string[]? cityName;
-    static string[]? cityId;
+    readonly static string url = "https://simplewine.ru/catalog/shampanskoe_i_igristoe_vino/";
+    static Dictionary<string, string> cityDictionary; 
     static async Task Main()
     {
+        var documentTask = Task.Run(() => GetPageBaseAsync());
+        var cityInfoTask = Task.Run(() => GetInfoAboutCity());
         parser = new ParserWorker<List<Product>>(
                 new HabraParser());
 
         parser.OnCompleted += Parser_OnCompleted;
         parser.OnNewData += Parser_OnNewData;
 
-        var documentTask = Task.Run(() => GetPageBase());
-        var cityInfoTask = Task.Run(() => GetInfoAboutCity());
 
 
        
         Console.Write("Введите с какой страницы парсить: ");
         int MinValue = Convert.ToInt32(Console.ReadLine());
+   
         Console.Write("Введите до какой страницы парсить: ");
         int MaxValue = Convert.ToInt32(Console.ReadLine());
 
 
         Console.WriteLine("Введите id города которые вы хотите распарсить(по умолчанию Москва - 1): ");
-      
-
         await Task.WhenAll(documentTask, cityInfoTask);
-        for(int i = 0; i < cityName.Length; i++)
+
+
+
+        foreach (var pair in cityDictionary)
         {
-            Console.WriteLine($"{cityId[i]} - {cityName[i]}");
+            Console.WriteLine($"{pair.Key} - {pair.Value}");
         }
+
 
 
 
@@ -51,32 +54,39 @@ class Program
     }
 
 
-    private static async Task<IHtmlDocument> GetPageBase()
+
+
+
+    private static async Task<IHtmlDocument> GetPageBaseAsync()
     {
+        
+        
         HttpClient client = new HttpClient();
-        var response = await client.GetAsync(source1);
-        var source2 = await response.Content.ReadAsStringAsync(); 
+        var response = await client.GetAsync(url);
+        var source = await response.Content.ReadAsStringAsync(); 
         var domParser = new HtmlParser();
-        var document = await domParser.ParseDocumentAsync(source2);
+        var document = await domParser.ParseDocumentAsync(source);
+        client.Dispose();
 
         return document;
-        
+
+       
+
     } 
 
 
     private static async Task GetInfoAboutCity()
     {
 
-        var document = await GetPageBase();
+        var document = await GetPageBaseAsync();
         var s = document.QuerySelectorAll("a")
-                        .Where(item => item.ClassName != null && item.ClassName.Contains("location__link"))
-                        .ToList();
+                        .Where(item => item.ClassName != null && item.ClassName.Contains("location__link"));
 
-        cityName = s.Select(item => item.TextContent.Trim()).ToArray();
+        cityDictionary = s.ToDictionary(
+                    item => item.GetAttribute("href").Substring(item.GetAttribute("href").IndexOf('=') + 1),
+                    item => item.TextContent.Trim());
 
-        cityId = s.Select(item => item.GetAttribute("href"))
-                      .Select(s => s.Substring(s.IndexOf('=') + 1))
-                      .ToArray();
+
     }
 
     private static void Parser_OnNewData(object arg1, List<Product> list)

@@ -1,4 +1,6 @@
-﻿using System.Net;
+﻿using AngleSharp.Io;
+using System.IO.Compression;
+using System.Net;
 
 namespace Parser.Core
 {
@@ -15,16 +17,43 @@ namespace Parser.Core
 
         public async Task<string> GetSourceByPageId(int id)
         {
+
             var currentUrl = url.Replace("{CurrentId}", id.ToString());
             var response = await client.GetAsync(currentUrl);
+
+
             string source = null;
 
-            if (response != null && response.StatusCode == HttpStatusCode.OK)
+
+            if (response.Content.Headers.ContentEncoding.Contains("gzip"))
             {
-                source = await response.Content.ReadAsStringAsync();
+                using (Stream contentStream = await response.Content.ReadAsStreamAsync())
+                {
+                    using (MemoryStream decompressedStream = new MemoryStream())
+                    {
+                        using (GZipStream gzip = new GZipStream(contentStream, CompressionMode.Decompress))
+                        {
+                            await gzip.CopyToAsync(decompressedStream);
+                        }
+
+                        decompressedStream.Seek(0, SeekOrigin.Begin);
+
+                        using (StreamReader reader = new StreamReader(decompressedStream))
+                        {
+                            source = await reader.ReadToEndAsync();
+                  
+                        }
+                    }
+                }
+            }
+            else // Если содержимое не было сжато, просто читаем его как обычно
+            {
+                 source = await response.Content.ReadAsStringAsync();
             }
 
-            return source;
+
+
+                return source;
         }
     }
 }
